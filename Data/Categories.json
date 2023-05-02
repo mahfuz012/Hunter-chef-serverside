@@ -1,0 +1,309 @@
+[
+    
+    {
+        "chef_id": 987654,
+        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_name": "Maria Rodriguez",
+        "years_of_experience": 8,
+        "recipes": [
+          {
+            "recipe_id": 1,
+            "recipe_name": "Arroz con Pollo",
+            "ingredients": ["rice", "chicken", "tomatoes", "onion", "garlic", "bell pepper", "peas"],
+            "cooking_method": "1. Heat oil in a large pot. 2. Cook chicken until browned on both sides. 3. Add onion, garlic, and bell pepper and cook until tender. 4. Add rice and cook until slightly browned. 5. Add diced tomatoes and enough water to cover the rice. 6. Bring to a boil and then reduce heat to low. 7. Add peas and simmer until rice is tender and liquid is absorbed.",
+            "rating": 4.5,
+            "favorite_button": true
+          },
+          
+          {
+            "recipe_id": 2,
+            "recipe_name": "Tacos al Pastor",
+            "ingredients": ["pork", "pineapple", "onion", "cilantro", "lime", "corn tortillas"],
+            "cooking_method": "1. Marinate pork with spices and pineapple juice. 2. Grill pork until cooked through. 3. Serve pork on warm corn tortillas with diced onion, cilantro, and a squeeze of lime.",
+            "rating": 4.9,
+            "favorite_button": true
+          },
+          {
+            "recipe_id": 3,
+            "recipe_name": "Pesto Pasta",
+            "ingredients": ["pasta", "basil", "pine nuts", "garlic", "parmesan cheese", "olive oil"],
+            "cooking_method": "1. Cook pasta according to package directions. 2. In a food processor, blend basil, pine nuts, garlic, parmesan cheese, and olive oil until smooth. 3. Toss pasta with pesto sauce and serve.",
+            "rating": 4.2,
+            "favorite_button": false
+          }
+        ],
+
+        "likes": 780,
+        "description": "Maria Rodriguez is a chef with 8 years of experience in Mexican and Italian cuisine. She grew up in Mexico City and learned to cook from her grandmother. She moved to the United States to pursue her passion for cooking and has worked in several restaurants in New York City. Her specialty is creating flavorful dishes that are easy to prepare at home.",
+     
+        "address":"Sommatino,Italy"
+      },
+
+      {
+        "chef_id": 887654,
+        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_name": "Giuseppe Rossi",
+        "years_of_experience": 3,
+        "recipes": [
+          {
+           "recipe_id": 1,
+"recipe_name": "Spaghetti Carbonara",
+"ingredients": ["spaghetti", "pancetta", "eggs", "parmesan cheese", "black pepper"],
+"cooking_method": "1. Cook spaghetti according to package directions. 2. While the spaghetti is cooking, cook the pancetta in a large pan until crispy. 3. In a separate bowl, whisk together the eggs, parmesan cheese, and black pepper. 4. Drain the spaghetti and add it to the pan with the pancetta. 5. Turn off the heat and add the egg mixture, stirring quickly to coat the spaghetti. 6. Serve hot with additional parmesan cheese and black pepper, if desired.",
+"rating": 4.8,
+"favorite_button": true
+},
+
+{
+"recipe_id": 2,
+"recipe_name": "Margherita Pizza",
+"ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "fresh basil"],
+"cooking_method": "1. Preheat oven to 450°F (230°C). 2. Roll out pizza dough and place it on a baking sheet. 3. Spread tomato sauce evenly over the dough, leaving a small border around the edges. 4. Add shredded mozzarella cheese on top of the tomato sauce. 5. Bake in the preheated oven for 12-15 minutes, or until the cheese is melted and bubbly. 6. Remove from the oven and add fresh basil on top. 7. Slice and serve hot.",
+"rating": 4.6,
+"favorite_button": true
+},
+
+ {
+    "recipe_id": 3,
+    "recipe_name": "Osso Buco",
+    "ingredients": ["veal shanks", "carrots", "celery", "onion", "garlic", "tomato paste", "beef broth", "white wine", "bay leaves", "lemon zest", "parsley"],
+    "cooking_method": "1. Preheat oven to 350°F (175°C). 2. Season veal shanks with salt and pepper. 3. In a large dutch oven, heat olive oil over medium-high heat and brown the veal shanks on all sides. 4. Remove the veal from the pan and set aside. 5. Add carrots, celery, onion, and garlic to the pan and cook until tender. 6. Add tomato paste and stir to combine. 7. Add beef broth and white wine and bring to a simmer", 
+           "rating": 3.2,
+            "favorite_button": false
+          }
+        ],
+
+        "likes": 620,
+        "description": "Giuseppe Rossi is a chef with 8 years of experience in Mexican and Italian cuisine. She grew up in Mexico City and learned to cook from her grandmother. She moved to the United States to pursue her passion for cooking and has worked in several restaurants in New York City. Her specialty is creating flavorful dishes that are easy to prepare at home.",
+     "address":"San Salvatore Monferrato,Italy"
+      },
+
+{
+    "chef_id": 487554,
+    "chef_picture": "https://example.com/chef2.jpg",
+    "chef_name": "Giorgio Locatelli",
+    "years_of_experience": 7,
+    "recipes": [
+      {
+       "recipe_id": 1,
+       "recipe_name": "Spaghetti Carbonara",
+       "ingredients": ["spaghetti", "pancetta", "eggs", "pecorino cheese", "black pepper"],
+       "cooking_method": "1. Cook spaghetti according to package directions. 2. In a large skillet, cook pancetta until crispy. 3. In a bowl, whisk together eggs, pecorino cheese, and black pepper. 4. Drain spaghetti and add to the skillet with pancetta. 5. Turn off the heat and add the egg mixture, tossing until the pasta is coated and the eggs are cooked.",
+     
+"rating": 3.8,
+"favorite_button": true
+},
+
+
+{
+    
+"recipe_id": 2,
+"recipe_name": "Risotto alla Milanese",
+  "ingredients": ["arborio rice", "chicken broth", "onion", "saffron", "parmesan cheese"],
+  "cooking_method": "1. In a large pot, sauté onion in olive oil until translucent. 2. Add arborio rice and stir until coated in oil. 3. Add a ladleful of chicken broth and stir until absorbed. 4. Repeat, adding saffron and more broth until rice is tender and creamy. 5. Stir in parmesan cheese and serve.",
+"rating": 4.6,
+"favorite_button": true
+}
+,
+{
+"recipe_id": 3,
+"recipe_name": "Pesto Genovese",
+  "ingredients": ["basil", "pine nuts", "garlic", "parmesan cheese", "olive oil"],
+  "cooking_method": "1. In a food processor, blend basil, pine nuts, garlic, and parmesan cheese until finely chopped. 2. With the motor running, slowly add olive oil until a smooth paste forms. 3. Serve over pasta or spread on bread.",
+       "rating": 4.7,
+        "favorite_button": false
+      }
+    ],
+
+    "likes": 1150,
+    "description": "Giorgio Locatelli is an award-winning chef with over 20 years of experience in Italian cuisine. Born and raised in Lombardy, Italy, he learned the art of cooking from his mother and grandmother. He has worked in some of the top restaurants in Europe and is known for his use of fresh, seasonal ingredients and traditional Italian techniques. Giorgio has also written several cookbooks and is a regular contributor to food publications. His passion for Italian food is evident in every dish he creates.",
+    "address":"Ripacandida,Italy"
+  },
+
+
+
+
+  {
+    "chef_id": 477249,
+    "chef_picture": "https://example.com/chef2.jpg",
+    "chef_name": "Ruggero Loggia",
+    "years_of_experience": 4,
+    "recipes": [
+      {
+       "recipe_id": 1,
+       "recipe_name": "Polenta e Salsiccia",
+       "ingredients": ["polenta", "sausage", "tomatoes", "onion", "olive oil"],
+       "cooking_method": "1. In a large pot, cook polenta according to package directions. 2. In a skillet, brown sausage and remove from pan. 3. In the same skillet, cook onion until softened, then add tomatoes and cook until sauce forms. 4. Add sausage back to skillet and simmer until heated through. 5. Serve sausage and tomato sauce over polenta.",
+     
+"rating": 4.2,
+"favorite_button": true
+}
+,
+{
+"recipe_id": 2,
+"recipe_name": "Osso Buco",
+"ingredients": ["veal shanks", "onion", "carrot", "celery", "tomatoes"],
+"cooking_method": "1. Preheat oven to 375°F. 2. Season veal shanks with salt and pepper and brown in a large Dutch oven. 3. Remove shanks and sauté onion, carrot, and celery until soft. 4. Add tomatoes and bring to a simmer. 5. Return shanks to pot, cover with lid, and bake in oven for 2-3 hours until tender. Serve with gremolata.",
+"rating": 4.1,
+"favorite_button": true
+}
+,
+{
+"recipe_id": 3,
+"recipe_name": "Bruschetta",
+"ingredients": ["bread", "tomatoes", "garlic", "basil", "olive oil"],
+"cooking_method": "1. Toast bread in the oven or on a grill until lightly browned. 2. Rub garlic on the toasted bread. 3. Top with chopped tomatoes and basil",
+       "rating": 4.3,
+        "favorite_button": false
+      }
+    ],
+
+    "likes": 530,
+    "description":"Ruggero Loggia is a seasoned Italian chef with over 15 years of experience in the culinary arts. He was born and raised in the city of Florence, where he developed his passion for cooking at a young age. He has worked in some of the most prestigious restaurants in Italy, honing his skills and perfecting his techniques. His specialty is in creating traditional Italian dishes using the freshest and highest quality ingredients. He believes that food is not just about taste, but also about the experience and the memories it creates for people.",
+    "address":" Prata Principato Ultra,Italy"
+  },
+
+
+
+
+
+    {
+        "chef_id": 221646,
+        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_name": "Alfonso Milanesi",
+        "years_of_experience": 7,
+        "recipes": [
+          {
+           "recipe_id": 1,
+           "recipe_name": "Spaghetti alla Carbonara",
+           "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "egg yolks",
+            "Parmesan cheese",
+            "olive oil",
+            "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package directions. 2. In a large skillet, cook pancetta until crispy. 3. In a bowl, mix together egg yolks and grated Parmesan cheese. 4. Drain spaghetti and add to skillet with pancetta. 5. Turn off heat and add egg mixture, tossing quickly to coat. 6. Season with black pepper and serve immediately.",
+         
+    "rating": 4.2,
+    "favorite_button": true
+    }
+    ,
+    {
+    "recipe_id": 2,
+    "recipe_name": "Risotto ai Funghi",
+    "ingredients": [
+        "Arborio rice",
+        "mushrooms",
+        "onion",
+        "Parmesan cheese",
+        "butter",
+        "vegetable broth",
+        "white wine",
+        "olive oil",
+        "salt",
+        "black pepper"
+    ],
+    "cooking_method": "1. In a large pot, heat vegetable broth and keep warm. 2. In a skillet, cook mushrooms and onion in olive oil until softened. 3. In a separate pot, melt butter and add Arborio rice, stirring until coated. 4. Add white wine and stir until absorbed. 5. Add a ladleful of warm broth to the rice and stir until absorbed. Repeat until rice is cooked and creamy. 6. Stir in cooked mushrooms, grated Parmesan cheese, salt, and black pepper. 7. Serve hot.",
+    "rating": 4.1,
+    "favorite_button": true
+    }
+    ,
+    {
+    "recipe_id": 3,
+    "recipe_name": "Lasagne alla Bolognese",
+    "ingredients": [
+        "lasagne noodles",
+        "ground beef",
+        "onion",
+        "carrots",
+        "celery",
+        "tomatoes",
+        "Parmesan cheese",
+        "mozzarella cheese",
+        "butter",
+        "flour",
+        "milk",
+        "nutmeg",
+        "salt",
+        "black pepper"
+    ],
+    "cooking_method": "1. Cook lasagne noodles according to package directions. 2. In a skillet, cook ground beef until browned. 3. Add chopped onion, carrots, and celery, and cook until softened. 4. Add canned tomatoes and simmer until sauce thickens. 5. In a separate pot, make a white sauce by melting butter, adding flour, and slowly whisking in milk. 6. Add nutmeg, salt, and black pepper to taste. 7. In a baking dish, layer noodles, meat sauce, and white sauce. 8. Top with grated Parmesan cheese and shredded mozzarella cheese. 9. Bake in oven until cheese is melted and bubbly.",
+           "rating": 4.3,
+            "favorite_button": false
+          }
+        ],
+    
+        "likes": 531,
+        "description":"Alfonso Milanesi is a dynamic Italian chef with a flair for creating modern twists on classic Italian cuisine. Born and raised in Naples, he grew up surrounded by the rich culinary traditions of his hometown. After studying at a culinary institute in Italy, he worked in some of the most renowned restaurants in the country before moving to London to continue his culinary journey. He draws inspiration from his travels, incorporating new and unexpected flavors into his dishes. He believes that cooking is an art form that should be approached with passion and creativity, and his dishes are a true reflection of his artistic vision.",
+        "address":" Gorreto,Italy"
+      },
+    
+
+
+{
+    "chef_id": 124649,
+    "chef_picture": "https://example.com/chef2.jpg",
+    "chef_name": "Lucius Moretti",
+    "years_of_experience": 4,
+    "recipes": [
+      {
+       "recipe_id": 1,
+       "recipe_name": "Pizza Margherita",
+       "ingredients": [
+        "pizza dough",
+        "tomatoes",
+        "fresh mozzarella cheese",
+        "basil leaves",
+        "olive oil",
+        "salt",
+        "black pepper"
+    ],
+    "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a floured surface. 3. Top with sliced tomatoes, fresh mozzarella cheese, and torn basil leaves. 4. Drizzle with olive oil and season with salt and black pepper.",
+     
+"rating": 4.6,
+"favorite_button": true
+}
+,
+{
+"recipe_id": 2,
+"recipe_name": "Pesto alla Genovese",
+"ingredients": [
+    "fresh basil leaves",
+    "pine nuts",
+    "Parmesan cheese",
+    "garlic",
+    "olive oil",
+    "salt",
+    "black pepper"
+],
+"cooking_method": "1. In a food processor, pulse together fresh basil leaves, pine nuts, grated Parmesan cheese, and garlic until finely chopped. 2. Slowly drizzle in olive oil while pulsing until mixture is smooth. 3. Season with salt and black pepper to taste. 4. Serve over pasta or as a spread on bread.",
+"rating": 4.4,
+"favorite_button": true
+}
+,
+{
+"recipe_id": 3,
+"recipe_name": "Tiramisu",
+"ingredients": [
+    "ladyfingers",
+    "espresso",
+    "Marsala wine",
+    "egg yolks",
+    "sugar",
+    "Mascarpone cheese",
+    "heavy cream",
+    "cocoa powder"
+],
+"cooking_method": "1. In a shallow dish, mix together espresso and Marsala wine. 2. Dip ladyfingers in mixture and arrange in a single layer in a serving dish. 3. In a bowl, whisk together egg yolks and sugar until light and fluffy. 4. Add Mascarpone cheese and mix until smooth. 5. In a separate bowl, whip heavy cream until stiff peaks form. 6. Fold whipped cream into Mascarpone mixture. 7. Spoon half of mixture over ladyfingers. 8. Repeat with another layer of soaked ladyfingers and remaining Mascarpone mixture. 9. Chill in refrigerator for at least 2 hours. 10. Before serving, dust with cocoa powder." ,
+       "rating": 3.3,
+        "favorite_button": false
+      }
+    ],
+
+    "likes": 232,
+    "description":"Lucius Moretti is a passionate Italian chef with over a decade of experience in the culinary world. Born and raised in Naples, Italy, he grew up surrounded by the vibrant and diverse flavors of Italian cuisine. His passion for cooking led him to work in some of the finest restaurants in Italy, where he honed his skills in preparing traditional Italian dishes. His specialty is creating simple yet flavorful dishes that highlight the natural flavors of the ingredients. Lucius believes that cooking is an art form and that each dish should be crafted with care and attention to detail.",
+    "address":"Cirella,Italy"
+  }
+]  
