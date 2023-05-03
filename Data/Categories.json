@@ -8,6 +8,7 @@
         "recipes": [
           {
             "recipe_id": 1,
+            "img":"https://i.ibb.co/Wzqr102/1.png",
             "recipe_name": "Arroz con Pollo",
             "ingredients": ["rice", "chicken", "tomatoes", "onion", "garlic", "bell pepper", "peas"],
             "cooking_method": "1. Heat oil in a large pot. 2. Cook chicken until browned on both sides. 3. Add onion, garlic, and bell pepper and cook until tender. 4. Add rice and cook until slightly browned. 5. Add diced tomatoes and enough water to cover the rice. 6. Bring to a boil and then reduce heat to low. 7. Add peas and simmer until rice is tender and liquid is absorbed.",
@@ -17,6 +18,7 @@
           
           {
             "recipe_id": 2,
+            "img":"https://i.ibb.co/ykzwMZx/2.png",
             "recipe_name": "Tacos al Pastor",
             "ingredients": ["pork", "pineapple", "onion", "cilantro", "lime", "corn tortillas"],
             "cooking_method": "1. Marinate pork with spices and pineapple juice. 2. Grill pork until cooked through. 3. Serve pork on warm corn tortillas with diced onion, cilantro, and a squeeze of lime.",
@@ -25,6 +27,7 @@
           },
           {
             "recipe_id": 3,
+            "img":"https://i.ibb.co/DrTkg2d/4.png",
             "recipe_name": "Pesto Pasta",
             "ingredients": ["pasta", "basil", "pine nuts", "garlic", "parmesan cheese", "olive oil"],
             "cooking_method": "1. Cook pasta according to package directions. 2. In a food processor, blend basil, pine nuts, garlic, parmesan cheese, and olive oil until smooth. 3. Toss pasta with pesto sauce and serve.",
@@ -47,6 +50,7 @@
         "recipes": [
           {
            "recipe_id": 1,
+           "img":"https://i.ibb.co/ykzwMZx/2.png",
 "recipe_name": "Spaghetti Carbonara",
 "ingredients": ["spaghetti", "pancetta", "eggs", "parmesan cheese", "black pepper"],
 "cooking_method": "1. Cook spaghetti according to package directions. 2. While the spaghetti is cooking, cook the pancetta in a large pan until crispy. 3. In a separate bowl, whisk together the eggs, parmesan cheese, and black pepper. 4. Drain the spaghetti and add it to the pan with the pancetta. 5. Turn off the heat and add the egg mixture, stirring quickly to coat the spaghetti. 6. Serve hot with additional parmesan cheese and black pepper, if desired.",
@@ -56,6 +60,7 @@
 
 {
 "recipe_id": 2,
+"img":"https://i.ibb.co/h298rTK/5.png",
 "recipe_name": "Margherita Pizza",
 "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "fresh basil"],
 "cooking_method": "1. Preheat oven to 450°F (230°C). 2. Roll out pizza dough and place it on a baking sheet. 3. Spread tomato sauce evenly over the dough, leaving a small border around the edges. 4. Add shredded mozzarella cheese on top of the tomato sauce. 5. Bake in the preheated oven for 12-15 minutes, or until the cheese is melted and bubbly. 6. Remove from the oven and add fresh basil on top. 7. Slice and serve hot.",
@@ -65,6 +70,7 @@
 
  {
     "recipe_id": 3,
+    "img":"https://i.ibb.co/30VV75x/6.png",
     "recipe_name": "Osso Buco",
     "ingredients": ["veal shanks", "carrots", "celery", "onion", "garlic", "tomato paste", "beef broth", "white wine", "bay leaves", "lemon zest", "parsley"],
     "cooking_method": "1. Preheat oven to 350°F (175°C). 2. Season veal shanks with salt and pepper. 3. In a large dutch oven, heat olive oil over medium-high heat and brown the veal shanks on all sides. 4. Remove the veal from the pan and set aside. 5. Add carrots, celery, onion, and garlic to the pan and cook until tender. 6. Add tomato paste and stir to combine. 7. Add beef broth and white wine and bring to a simmer", 
@@ -86,6 +92,7 @@
     "recipes": [
       {
        "recipe_id": 1,
+       "img":"https://i.ibb.co/s9CVNnf/7.png",
        "recipe_name": "Spaghetti Carbonara",
        "ingredients": ["spaghetti", "pancetta", "eggs", "pecorino cheese", "black pepper"],
        "cooking_method": "1. Cook spaghetti according to package directions. 2. In a large skillet, cook pancetta until crispy. 3. In a bowl, whisk together eggs, pecorino cheese, and black pepper. 4. Drain spaghetti and add to the skillet with pancetta. 5. Turn off the heat and add the egg mixture, tossing until the pasta is coated and the eggs are cooked.",
@@ -98,6 +105,7 @@
 {
     
 "recipe_id": 2,
+"img":"https://i.ibb.co/zXrKSr1/8.png",
 "recipe_name": "Risotto alla Milanese",
   "ingredients": ["arborio rice", "chicken broth", "onion", "saffron", "parmesan cheese"],
   "cooking_method": "1. In a large pot, sauté onion in olive oil until translucent. 2. Add arborio rice and stir until coated in oil. 3. Add a ladleful of chicken broth and stir until absorbed. 4. Repeat, adding saffron and more broth until rice is tender and creamy. 5. Stir in parmesan cheese and serve.",
@@ -107,6 +115,7 @@
 ,
 {
 "recipe_id": 3,
+"img":"https://i.ibb.co/7SZP2gh/9.png",
 "recipe_name": "Pesto Genovese",
   "ingredients": ["basil", "pine nuts", "garlic", "parmesan cheese", "olive oil"],
   "cooking_method": "1. In a food processor, blend basil, pine nuts, garlic, and parmesan cheese until finely chopped. 2. With the motor running, slowly add olive oil until a smooth paste forms. 3. Serve over pasta or spread on bread.",
@@ -131,6 +140,7 @@
     "recipes": [
       {
        "recipe_id": 1,
+       "img":"https://i.ibb.co/3WPz072/10.png",
        "recipe_name": "Polenta e Salsiccia",
        "ingredients": ["polenta", "sausage", "tomatoes", "onion", "olive oil"],
        "cooking_method": "1. In a large pot, cook polenta according to package directions. 2. In a skillet, brown sausage and remove from pan. 3. In the same skillet, cook onion until softened, then add tomatoes and cook until sauce forms. 4. Add sausage back to skillet and simmer until heated through. 5. Serve sausage and tomato sauce over polenta.",
@@ -141,6 +151,7 @@
 ,
 {
 "recipe_id": 2,
+"img":"https://i.ibb.co/6NK2w0d/11.png",
 "recipe_name": "Osso Buco",
 "ingredients": ["veal shanks", "onion", "carrot", "celery", "tomatoes"],
 "cooking_method": "1. Preheat oven to 375°F. 2. Season veal shanks with salt and pepper and brown in a large Dutch oven. 3. Remove shanks and sauté onion, carrot, and celery until soft. 4. Add tomatoes and bring to a simmer. 5. Return shanks to pot, cover with lid, and bake in oven for 2-3 hours until tender. Serve with gremolata.",
@@ -150,6 +161,7 @@
 ,
 {
 "recipe_id": 3,
+"img":"https://i.ibb.co/NrB62PZ/12.png",
 "recipe_name": "Bruschetta",
 "ingredients": ["bread", "tomatoes", "garlic", "basil", "olive oil"],
 "cooking_method": "1. Toast bread in the oven or on a grill until lightly browned. 2. Rub garlic on the toasted bread. 3. Top with chopped tomatoes and basil",
@@ -159,6 +171,7 @@
     ],
 
     "likes": 530,
+    "img":"https://i.ibb.co/VWMDV6V/13.png",
     "description":"Ruggero Loggia is a seasoned Italian chef with over 15 years of experience in the culinary arts. He was born and raised in the city of Florence, where he developed his passion for cooking at a young age. He has worked in some of the most prestigious restaurants in Italy, honing his skills and perfecting his techniques. His specialty is in creating traditional Italian dishes using the freshest and highest quality ingredients. He believes that food is not just about taste, but also about the experience and the memories it creates for people.",
     "address":" Prata Principato Ultra,Italy"
   },
@@ -175,6 +188,7 @@
         "recipes": [
           {
            "recipe_id": 1,
+           "img":"https://i.ibb.co/ZNdRysW/14.png",
            "recipe_name": "Spaghetti alla Carbonara",
            "ingredients": [
             "spaghetti",
@@ -192,6 +206,7 @@
     ,
     {
     "recipe_id": 2,
+    "img":"https://i.ibb.co/YdMZ9tD/15.png",
     "recipe_name": "Risotto ai Funghi",
     "ingredients": [
         "Arborio rice",
@@ -212,6 +227,7 @@
     ,
     {
     "recipe_id": 3,
+    "img":"https://i.ibb.co/3c1HgxT/16.png",
     "recipe_name": "Lasagne alla Bolognese",
     "ingredients": [
         "lasagne noodles",
@@ -250,6 +266,7 @@
     "recipes": [
       {
        "recipe_id": 1,
+       "img":"https://i.ibb.co/MCt5mjP/17.png",
        "recipe_name": "Pizza Margherita",
        "ingredients": [
         "pizza dough",
@@ -268,6 +285,7 @@
 ,
 {
 "recipe_id": 2,
+"img":"https://i.ibb.co/NLwDKb3/18.png",
 "recipe_name": "Pesto alla Genovese",
 "ingredients": [
     "fresh basil leaves",
@@ -285,6 +303,7 @@
 ,
 {
 "recipe_id": 3,
+"img":"https://i.ibb.co/NrB62PZ/12.png",
 "recipe_name": "Tiramisu",
 "ingredients": [
     "ladyfingers",
