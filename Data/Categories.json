@@ -2,7 +2,7 @@
     
     {
         "chef_id": 987654,
-        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_picture": "https://i.ibb.co/VmBsv00/Untitled-design-1.png",
         "chef_name": "Maria Rodriguez",
         "years_of_experience": 8,
         "recipes": [
@@ -41,7 +41,7 @@
 
       {
         "chef_id": 887654,
-        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_picture": "https://i.ibb.co/xGrFM4r/Untitled-design-2.png",
         "chef_name": "Giuseppe Rossi",
         "years_of_experience": 3,
         "recipes": [
@@ -80,7 +80,7 @@
 
 {
     "chef_id": 487554,
-    "chef_picture": "https://example.com/chef2.jpg",
+    "chef_picture": "https://i.ibb.co/FBSwX2S/Untitled-design-3.png",
     "chef_name": "Giorgio Locatelli",
     "years_of_experience": 7,
     "recipes": [
@@ -125,7 +125,7 @@
 
   {
     "chef_id": 477249,
-    "chef_picture": "https://example.com/chef2.jpg",
+    "chef_picture": "https://i.ibb.co/6wF1hDb/Untitled-design-4.png",
     "chef_name": "Ruggero Loggia",
     "years_of_experience": 4,
     "recipes": [
@@ -169,7 +169,7 @@
 
     {
         "chef_id": 221646,
-        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_picture": "https://i.ibb.co/XSbG7NV/Untitled-design-5.png",
         "chef_name": "Alfonso Milanesi",
         "years_of_experience": 7,
         "recipes": [
@@ -244,7 +244,7 @@
 
 {
     "chef_id": 124649,
-    "chef_picture": "https://example.com/chef2.jpg",
+    "chef_picture": "https://i.ibb.co/r2r1mrH/Untitled-design.png",
     "chef_name": "Lucius Moretti",
     "years_of_experience": 4,
     "recipes": [
